@@ -6,7 +6,7 @@ class YukariYuyuko {
     static func main() {
         repeat {
                 do {
-
+                    
             }
         } while true
     }
