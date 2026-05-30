@@ -4,3 +4,7 @@
 /build_x64
 /install
 /LibraryArti
+
+/Rely-on/SDL3
+/Rely-on/SDL3-3.4.8.zip
+
